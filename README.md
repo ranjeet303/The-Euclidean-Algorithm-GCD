@@ -36,3 +36,9 @@ Foundational concept in number theory.
 
 
 https://github.com/user-attachments/assets/6e7d5a27-6728-4ed0-84e3-27c41965e0f7
+
+
+# With seven segment display
+
+https://github.com/user-attachments/assets/13730701-2047-4faa-9d61-168d78653205
+
