@@ -35,6 +35,9 @@ Foundational concept in number theory.
 ![Screenshot (67)](https://github.com/user-attachments/assets/3653d941-814f-4ba2-aefc-59636f15ea13)
 
 
+![image](https://github.com/user-attachments/assets/4865dc1e-8256-439f-80d2-7fd630e2847b)
+
+
 https://github.com/user-attachments/assets/6e7d5a27-6728-4ed0-84e3-27c41965e0f7
 
 
